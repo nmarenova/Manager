@@ -83,11 +83,7 @@
                                 <rule>
                                     <element>PACKAGE</element>
                                     <limits>
-                                        <limit>
-                                            <counter>BRANCH</counter>
-                                            <value>COVEREDRATIO</value>
-                                            <minimum>1</minimum>
-                                        </limit>
+
                                     </limits>
                                 </rule>
                             </rules>
